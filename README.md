@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 2nd Year | B.Tech CSE (Cybersecurity) | WiCyS Member <br>
-  🏆 CTF Player | Google Cybersecurity Certified | Passionate about Cybersecurity & C++ <br>
+  🏆 CTF Player | Google Cybersecurity Certified | Passionate about Cybersecurity & Coding<br>
   ✍️ Writer | Tech Enthusiast <br>
 </p>
 
