@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Anagha!
+👋 Hello, I'm Anagha!
 
 🎓 2nd Year | B.Tech CSE (Cybersecurity) major | WiCyS Member  
 🏆 CTF Player | Google Cybersecurity Certified | Passionate about Cybersecurity & C++  
