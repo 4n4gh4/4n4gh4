@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Anagha B Prasanth</h1>
+<h1 align="center">Hey there! 👋 I'm 4n4gh4</h1>
 
 <p align="center">
   🎓 2nd Year | B.Tech CSE (Cybersecurity) | WiCyS Member <br>
@@ -25,7 +25,7 @@
 ### 🔥 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4n4gh4&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=4n4gh4&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=4n4gh4&theme=radical" />
 </p>
 
 ---
