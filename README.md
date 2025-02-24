@@ -22,14 +22,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4n4gh4&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=4n4gh4&theme=radical" />
-</p>
-
----
-
 ### 🚀 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/anaghabprasanth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
