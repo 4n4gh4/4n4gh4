@@ -25,7 +25,7 @@
 ### 🔥 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4n4gh4&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=4n4gh4&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=4n4gh4&theme=radical" />
 </p>
 
 ---
